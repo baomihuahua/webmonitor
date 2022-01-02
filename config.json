@@ -1,0 +1,19 @@
+{
+    "websites": [
+	{
+        "url": "https://www.boxmoe.com",
+        "title": "盒子萌博客"
+    },
+	{
+        "url": "https://www.github.com",
+        "title": "github"
+    },
+	{
+        "url": "https://www.baidu.com",
+        "title": "baidu"
+    }	
+	],
+    "qq": [
+        "504888738"
+    ]
+}
